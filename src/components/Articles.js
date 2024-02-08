@@ -19,7 +19,9 @@ function Articles(){
                     <h1 className="blog-title" >Vintage in Vogue</h1>
                     <img src={vintageVogue} alt="vintage in vogue"/>
                     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Deleniti aliquid porro deserunt accusantium, aut sint incidunt illo neque mollitia necessitatibus corporis, ex voluptas quidem iusto corrupti, architecto fugiat ab doloribus.</p>
+                   {/* eslint-disable */}
                     <a className='continues' href="#">Continues...</a>
+                   {/* eslint-enable */}
                 </article>
             </section>
         </main>
