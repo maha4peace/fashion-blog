@@ -1,4 +1,4 @@
-# [Netlify Live Link](netlify link here)
+# [Netlify Live Link]
 https://master--fashion-eye.netlify.app/
 
 [Github pages Live Link](github pages link of html version)
